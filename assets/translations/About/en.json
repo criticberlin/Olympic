@@ -1,0 +1,92 @@
+{
+    "lang": "en",
+    "direction": "ltr",
+    "header": {
+        "home": "Home",
+        "ourServices": "Our Services",
+        "aboutUs": "About Us",
+        "contactUs": "Contact Us",
+        "getQuote": "Send via WhatsApp"
+    },
+    "aboutUs": {
+        "subtitle": "About Us",
+        "title": "A trusted partner specializing in manpower supply, & vehicle leasing.",
+        "description1": "Founded in 2014, OLYMPIC has become a reliable partner for factories and enterprises across Egypt. We provide nearly 1,500 young male and female workers, along with versatile vehicle fleets and essential supplies that ensure smooth, efficient, and cost-effective operations for businesses of all sizes. Our services support leading brands in food, manufacturing, and industrial sectors.",
+        "description2": "With strategic locations in Cairo, 10th of Ramadan, Nasr City, and Suez, we deliver responsive service and maintain strong partnerships with industry leaders including Indomie, Zanussi, El-Abd, Honeywell, and many others.",
+        "button": "Know About Us"
+    },
+    "companyProfile": {
+        "title": "Powering Factories with People and Transport Solutions.",
+        "description": "We provide comprehensive workforce and logistics solutions that keep Egyptian industries running smoothly. From skilled labor for packaging and production to reliable vehicles for transportation needs, we're the backbone that supports operational excellence.",
+        "button": "Browse All Services"
+    },
+    "experience": {
+        "title": "Previous Experience"
+    },
+    "counter": {
+        "years": "10",
+        "yearsLabel": "+Years of Experience"
+    },
+    "partners": {
+        "title": "Our Partners",
+        "viewAll": "View Previous Partners",
+        "hidePrevious": "Hide Previous Partners"
+    },
+    "newsletter": {
+        "title": "Stay Updated with Our Latest Services and Offerings!",
+        "button": "Send via WhatsApp"
+    },
+    "usefulLinks": {
+        "title": "useful links:",
+        "home": "Home",
+        "about": "About Us",
+        "services": "Our Services",
+        "contact": "Contact Us",
+        "faqs": "FAQs"
+    },
+    "ourServices": {
+        "title": "Our Services:",
+        "carRental": "Car Rental (Vans, Sedans, Buses, and Microbuses)",
+        "transportVehicles": "Supply of Transport Vehicles",
+        "packagingLabor": "Supply of Packaging Labor",
+        "loadingLabor": "Supply of Loading & Unloading Labor",
+        "cleaningLabor": "Supply of Housekeeping & Cleaning Labor",
+        "demolitionLabor": "Supply of Demolition & Excavation Labor",
+        "carMaintenance": "Car Maintenance & Repair",
+        "spareParts": "Supply of Spare Parts (Imported & New)",
+        "cleaningSupplies": "Supply of Cleaning Supplies",
+        "cateringSupplies": "Supply of Catering & Pantry Supplies"
+    },
+    "getInTouch": {
+        "title": "Get in Touch:",
+        "address": "Cairo, Egypt",
+        "email": "info@olympic-eg.com",
+        "phone": "+20 102 105 4399",
+        "hours": "Mon - Fri 8:30 - 17:30\nSat - Sun off"
+    },
+    "footer": {
+        "address": "Building 2 – Office 4 – Bietcho Towers - Maadi – Cairo, Egypt",
+        "email": "info@olympic-eg.com",
+        "phone": "01155177877",
+        "copyright": "©2025, Olympic Manpower & Transport Solutions. All Rights Reserved"
+    },
+    "language": {
+        "ar": "عربي"
+    },
+    "offcanvasMenu": {
+        "search": "Search",
+        "quickContact": "quick contact:",
+        "socialMedia": "we're on social media:",
+        "footerLinks": {
+            "privacy": "Privacy Policy",
+            "terms": "Terms & Conditions",
+            "legal": "Legal Info"
+        }
+    },
+    "socialMedia": {
+        "linkedin": "linkedin",
+        "facebook": "facebook",
+        "twitter": "twitter",
+        "instagram": "instagram"
+    }
+}

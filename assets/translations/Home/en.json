@@ -1,0 +1,182 @@
+{
+  "lang": "en",
+  "direction": "ltr",
+  "header": {
+    "home": "Home",
+    "ourServices": "Our Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "getQuote": "Send via WhatsApp"
+  },
+  "hero": {
+    "slide1": {
+      "number": "01",
+      "title": "Driving Growth with Workforce & Wheels",
+      "description": "At OLYMPIC, we specialize in delivering reliable manpower supply and vehicle leasing services to factories and enterprises across Egypt. With over a decade of proven expertise, we proudly serve leading brands in food, manufacturing, and industrial sectors, ensuring seamless operations with skilled labor and dependable transport solutions.",
+      "button": "Discover More"
+    },
+    "slide2": {
+      "number": "02",
+      "title": "Reliable Transport & Labor Solutions",
+      "description": "Olympic offers comprehensive manpower and transport solutions that streamline operations for businesses across Egypt, optimizing efficiency and reducing operational costs.",
+      "button": "Discover More"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional Business Solutions",
+    "description": "We offer professional services for all your business needs, from skilled labor to versatile transport solutions, ensuring seamless operations for your enterprise across Egypt.",
+    "button": "Discover All Services"
+  },
+  "serviceBlocks": {
+    "carRental": {
+      "title": "Car Rental (Vans, Sedans, Buses, and Microbuses)"
+    },
+    "transportVehicles": {
+      "title": "Supply of Transport Vehicles (Pickups, Jumbo Trucks, Trailers)"
+    },
+    "packagingLabor": {
+      "title": "Supply of Packaging Labor"
+    },
+    "loadingLabor": {
+      "title": "Supply of Loading & Unloading Labor"
+    },
+    "cleaningLabor": {
+      "title": "Supply of Housekeeping & Cleaning Labor"
+    },
+    "demolitionLabor": {
+      "title": "Supply of Demolition & Excavation Labor"
+    },
+    "carMaintenance": {
+      "title": "Car Maintenance & Repair"
+    },
+    "spareParts": {
+      "title": "Supply of Spare Parts (Imported & New)"
+    },
+    "cleaningSupplies": {
+      "title": "Supply of Cleaning Supplies"
+    },
+    "cateringSupplies": {
+      "title": "Supply of Catering & Pantry Supplies"
+    }
+  },
+  "about": {
+    "subtitle": "About Olympic Manpower & Transport",
+    "title": "Specialized Workforce & Vehicle Leasing Solutions",
+    "description": "Olympic specializes in providing reliable manpower and transport solutions across Egypt. Our dedicated team works with leading companies to deliver skilled personnel and quality vehicles, supporting their operations with efficiency and reliability.",
+    "button": "Full Case Study"
+  },
+  "stats": {
+    "title": "Our Track Record",
+    "items": [
+      {
+        "number": "1500+",
+        "text": "Workers"
+      },
+      {
+        "number": "200+",
+        "text": "Vehicles"
+      },
+      {
+        "number": "50+",
+        "text": "Major Clients"
+      },
+      {
+        "number": "10+",
+        "text": "Years Experience"
+      }
+    ]
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Reach Out for Expert Manpower & Transport Solutions",
+    "description": "Let's discuss how Olympic can support your business operations with reliable workforce and transportation solutions.",
+    "form": {
+      "name": "full name:",
+      "company": "company:",
+      "phone": "phone:",
+      "email": "Email:",
+      "address": "address:",
+      "message": "message:",
+      "button": "submit now"
+    },
+    "address": "Cairo, Egypt",
+    "phone": "+20 102 105 4399",
+    "email": "info@olympic-eg.com",
+    "hours": "Mon - Fri 8:30 - 17:30\nSat - Sun off"
+  },
+  "newsletter": {
+    "title": "Stay Updated with Our Latest Services and Offerings!",
+    "placeholder": "Write your mail here...",
+    "button": "Send via WhatsApp"
+  },
+  "footer": {
+    "address": "Building 2 – Office 4 – Bietcho Towers - Maadi – Cairo, Egypt",
+    "email": "info@olympic-eg.com",
+    "phone": "01155177877",
+    "copyright": "©2025, Olympic Manpower & Transport Solutions. All Rights Reserved.",
+    "slogans": {
+      "ingenuity": "through ingenuity",
+      "innovation": "Innovation"
+    }
+  },
+  "usefulLinks": {
+    "title": "useful links:"
+  },
+  "ourServices": {
+    "title": "Our Services:",
+    "carRental": "Car Rental (Vans, Sedans, Buses, and Microbuses)",
+    "transportVehicles": "Supply of Transport Vehicles",
+    "packagingLabor": "Supply of Packaging Labor",
+    "loadingLabor": "Supply of Loading & Unloading Labor",
+    "cleaningLabor": "Supply of Housekeeping & Cleaning Labor",
+    "demolitionLabor": "Supply of Demolition & Excavation Labor"
+  },
+  "getInTouch": {
+    "title": "Get in Touch:"
+  },
+  "clients": {
+    "title": "We have 15+ satisfied clients across Egypt"
+  },
+  "language": {
+    "ar": "عربي"
+  },
+  "socialMedia": {
+    "title": "we're on social media:"
+  },
+  "quickContact": {
+    "title": "quick contact:"
+  },
+  "offcanvasMenu": {
+    "usefulLinks": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Our Services",
+      "contact": "Contact Us",
+      "faqs": "FAQs"
+    },
+    "footerLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "legal": "Legal Info"
+    },
+    "search": "Search",
+    "socialLinks": {
+      "linkedin": "linkedin",
+      "facebook": "facebook",
+      "twitter": "twitter",
+      "instagram": "instagram"
+    }
+  },
+  "quotes": {
+    "egyptsTrustedPartner": "Egypt's Trusted Partner for Manpower & Transport Solutions"
+  },
+  "workforce": {
+    "subtitle": "Workforce Strength:",
+    "title": "1500+ Personnel"
+  },
+  "navigation": {
+    "prev": "Prev",
+    "next": "Next"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "lang": "en",
+  "direction": "ltr",
+  "header": {
+    "home": "Home",
+    "ourServices": "Our Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "getQuote": "Send Via WhatsApp"
+  },
+  "pageHeader": {
+    "title": "Contact Us",
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Contact Us"
+    }
+  },
+  "contactUs": {
+    "subtitle": "Get in Touch",
+    "title": "We're Ready to Support Your Business Needs",
+    "description": "With strategic locations across Egypt, OLYMPIC provides reliable manpower, versatile vehicle fleets, and essential supplies to keep your business running smoothly. Connect with us today to discuss how we can support your operations.",
+    "aboutUs": "About Our Company"
+  },
+  "contactInfo": {
+    "title": "Get in Touch with Our Team",
+    "subtitle": "Contact Information",
+    "description": "At OLYMPIC, we value direct communication with our clients and partners. Whether you need manpower, transport solutions, or general supplies, our team is ready to provide reliable support and tailored services for your business.",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "customerService": "Customer Service",
+    "salesDepartment": "Sales Department",
+    "technicalSupport": "Technical Support",
+    "management": "Management"
+  },
+  "branches": {
+    "title": "Our Branches",
+    "sectionTitle": "Let's Build Stronger Partnerships Together",
+    "locations": [
+      {
+        "name": "HQ – Maadi – Cairo",
+        "address": "2 Building – Office 4 – Bietcho Towers"
+      },
+      {
+        "name": "Nasr City",
+        "address": "One Day Hospital Street – 7th District Near Zanussi Service Center"
+      },
+      {
+        "name": "10th of Ramadan",
+        "address": "El-Ordonya Area – Al safa Mall – Above Hafez Roastery – office 8"
+      },
+      {
+        "name": "Suez",
+        "address": "El-Kabanon – After Ataka District – Near Mobil Station & United Cranes"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Stay Updated with Our Latest Services and Offerings!",
+    "placeholder": "Write your mail here...",
+    "button": "Send via WhatsApp"
+  },
+  "footer": {
+    "contactInfo": "Get in Touch",
+    "address": "Building 2 – Office 4 – Bietcho Towers - Maadi – Cairo, Egypt",
+    "phone": "01155177877",
+    "email": "info@olympic-eg.com",
+    "workingHours": "Mon - Fri 8:30 - 17:30 \nSat - Sun off",
+    "copyright": "©2025, Olympic Manpower & Transport Solutions. All Rights Reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "legal": "Legal Info",
+    "faqs": "FAQs"
+  },
+  "mapLocations": {
+    "headOffice": {
+      "title": "Head Office – Maadi – Cairo, Egypt",
+      "address": "2 Building – Office 4 – Bietcho Towers"
+    },
+    "nasrCity": {
+      "title": "Nasr City Branch",
+      "address": "One Day Hospital Street – 7th District – Near Zanussi Service Center – Cairo, Egypt"
+    },
+    "ramadan": {
+      "title": "10th of Ramadan Branch",
+      "address": "El-Ordonya Area – Al safa Mall – Above Hafez Roastery – office 8"
+    },
+    "suez": {
+      "title": "Suez Branch",
+      "address": "El-Kabanon – After Ataka District – Near Mobil Station & United Cranes"
+    },
+    "viewOnMap": "View on Map"
+  },
+  "counterInfo": {
+    "branches": "Branches",
+    "experience": "Years of Experience",
+    "workTogether": "Eager to work together to create?",
+    "helpRealize": "We're here to help realize your vision."
+  },
+  "navigation": {
+    "prev": "Prev",
+    "next": "Next"
+  },
+  "language": {
+    "ar": "عربي"
+  },
+  "usefulLinks": {
+    "title": "useful links:"
+  },
+  "ourServices": {
+    "title": "Our Services:",
+    "carRental": "Car Rental (Vans, Sedans, Buses, and Microbuses)",
+    "transportVehicles": "Supply of Transport Vehicles",
+    "packagingLabor": "Supply of Packaging Labor",
+    "loadingLabor": "Supply of Loading & Unloading Labor",
+    "cleaningLabor": "Supply of Housekeeping & Cleaning Labor",
+    "demolitionLabor": "Supply of Demolition & Excavation Labor"
+  },
+  "getInTouch": {
+    "title": "Get in Touch:"
+  },
+  "offcanvasMenu": {
+    "search": "Search",
+    "quickContact": "quick contact:",
+    "socialMedia": "we're on social media:",
+    "footerLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "legal": "Legal Info"
+    }
+  }
+}

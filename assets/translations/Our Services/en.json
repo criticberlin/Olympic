@@ -1,0 +1,137 @@
+{
+  "lang": "en",
+  "direction": "ltr",
+  "header": {
+    "home": "Home",
+    "ourServices": "Our Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "getQuote": "Send via WhatsApp"
+  },
+  "pageHeader": {
+    "title": "Our Services",
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Services"
+    }
+  },
+  "companyWorkFields": {
+    "title": "Company Work Fields"
+  },
+  "serviceBlocks": {
+    "title": "Our Services",
+    "description": "We offer professional services for all your business needs.",
+    "manpowerSupply": {
+      "title": "Manpower Supply",
+      "description": "We specialize in delivering skilled and semi-skilled labor to meet diverse operational needs: Packaging & Wrapping Workers, Loading & Unloading Labor, Excavation & Demolition Teams, Cleaning & Facility Workers, Specialized Labor for Industrial Operations"
+    },
+    "vehicleLeasing": {
+      "title": "Vehicle Leasing & Transport Solutions",
+      "description": "Our extensive fleet ensures safe and flexible transport for both goods and people: Heavy Trucks & Trailers (Jumbo, Dabbaba, etc.), Vans & Pickup Trucks, Buses & Microbuses, Private Cars for Corporate Use"
+    },
+    "carRental": {
+      "title": "Car Rental",
+      "description": "We provide a comprehensive car rental service including Vans, Sedans, Buses, and Microbuses to meet your transportation needs for both business operations and corporate events."
+    },
+    "transportVehicles": {
+      "title": "Transport Vehicles Supply",
+      "description": "Our supply of transport vehicles includes Pickups, Jumbo Trucks, and Trailers to support your logistics and transportation needs for moving goods efficiently and reliably."
+    },
+    "packagingLabor": {
+      "title": "Packaging Labor Supply",
+      "description": "We provide skilled packaging labor to ensure your products are properly wrapped, boxed, and prepared for shipping with attention to detail and efficiency to maintain your production schedule."
+    },
+    "loadingLabor": {
+      "title": "Loading & Unloading Labor",
+      "description": "Our loading and unloading labor team is trained to handle goods of all sizes safely and efficiently, ensuring timely loading and unloading of trucks, containers, and warehouses."
+    },
+    "cleaningLabor": {
+      "title": "Housekeeping & Cleaning Labor",
+      "description": "Our professional housekeeping and cleaning staff maintain hygienic and organized workspaces, including offices, industrial facilities, and commercial properties to ensure a clean environment."
+    },
+    "demolitionLabor": {
+      "title": "Demolition & Excavation Labor",
+      "description": "Our skilled demolition and excavation teams handle all aspects of site preparation, building removal, and earthmoving projects with a focus on safety, efficiency, and proper debris management."
+    },
+    "carMaintenance": {
+      "title": "Car Maintenance & Repair",
+      "description": "We provide reliable maintenance and repair solutions to keep vehicles and fleets in excellent condition, minimizing downtime and maximizing efficiency for all your business transportation needs."
+    },
+    "spareParts": {
+      "title": "Spare Parts Supply",
+      "description": "We supply high-quality spare parts, both imported and new, for various vehicle makes and models, ensuring that your fleet remains operational with minimal downtime."
+    },
+    "cleaningSupplies": {
+      "title": "Cleaning Supplies",
+      "description": "We offer a comprehensive range of industrial cleaning supplies, including detergents, sanitizers, equipment, and materials to maintain hygienic environments across all types of facilities."
+    },
+    "cateringSupplies": {
+      "title": "Catering & Pantry Supplies",
+      "description": "We provide a wide range of catering and pantry supplies for office kitchens, cafeterias, and staff rooms, from disposable items to appliances, ensuring your facility has everything needed for meal preparation and service."
+    }
+  },
+  "partners": {
+    "title": "Our Partners"
+  },
+  "contactButtons": {
+    "text": "Contact Us",
+    "getInTouch": "Get in Touch"
+  },
+  "footer": {
+    "address": "Building 2 – Office 4 – Bietcho Towers - Maadi – Cairo, Egypt",
+    "email": "info@olympic-eg.com",
+    "phone": "01155177877",
+    "copyright": "©2025, Olympic Manpower & Transport Solutions. All Rights Reserved",
+    "usefulLinks": "Useful Links",
+    "ourServices": "Our Services",
+    "contactInfo": "Contact Info"
+  },
+  "ourServices": {
+    "title": "Our Services:",
+    "carRental": "Car Rental (Vans, Sedans, Buses, and Microbuses)",
+    "transportVehicles": "Supply of Transport Vehicles",
+    "packagingLabor": "Supply of Packaging Labor",
+    "loadingLabor": "Supply of Loading & Unloading Labor",
+    "cleaningLabor": "Supply of Housekeeping & Cleaning Labor",
+    "demolitionLabor": "Supply of Demolition & Excavation Labor"
+  },
+  "language": {
+    "ar": "عربي"
+  },
+  "navigation": {
+    "prev": "Prev",
+    "next": "Next"
+  },
+  "clients": {
+    "title": "We have 15+ satisfied clients across Egypt"
+  },
+  "newsletter": {
+    "title": "Stay Updated with Our Latest Services and Offerings!",
+    "button": "Send via WhatsApp"
+  },
+  "usefulLinks": {
+    "title": "useful links:",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "faqs": "FAQs"
+  },
+  "getInTouch": {
+    "title": "Get in Touch:",
+    "address": "Cairo, Egypt",
+    "email": "info@olympic-eg.com",
+    "phone": "+20 102 105 4399",
+    "hours": "Mon - Fri 8:30 - 17:30\nSat - Sun off"
+  },
+  "offcanvasMenu": {
+    "search": "Search",
+    "quickContact": "quick contact:",
+    "socialMedia": "we're on social media:",
+    "footerLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "legal": "Legal Info"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+/* Almarai Arabic Font */
+@font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('../webfonts/Almarai-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../webfonts/Almarai-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../webfonts/Almarai-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url('../webfonts/Almarai-ExtraBold.ttf') format('truetype');
+}
+
+/* Apply Almarai font to Arabic text */
+html[lang="ar"] body {
+    font-family: 'Almarai', sans-serif;
+}
+
+/* Apply Almarai Bold to important Arabic elements */
+html[lang="ar"] h1,
+html[lang="ar"] h2,
+html[lang="ar"] h3,
+html[lang="ar"] h4,
+html[lang="ar"] h5,
+html[lang="ar"] h6,
+html[lang="ar"] .fx-scn-title-2,
+html[lang="ar"] .fx-scn-title-3,
+html[lang="ar"] .fx-hero-2-slider-item-title,
+html[lang="ar"] .fx-about-6-scn-title-big,
+html[lang="ar"] .txaa-split-text-2,
+html[lang="ar"] .txaa-split-text-3,
+html[lang="ar"] .fx-header-3-action-link a span,
+html[lang="ar"] .main-navigation ul li a,
+html[lang="ar"] .txa-offcanvas-services-item a,
+html[lang="ar"] .fx-footer-1-menu-2 li a,
+html[lang="ar"] .fx-footer-1-menu-1 li a,
+html[lang="ar"] .fx-pr-btn-1 span,
+html[lang="ar"] .fx-work-expri-1-item-category,
+html[lang="ar"] .lang-toggle .lang-text,
+html[lang="ar"] [data-i18n^="header"],
+html[lang="ar"] [data-i18n^="hero"],
+html[lang="ar"] [data-i18n^="services.title"],
+html[lang="ar"] [data-i18n^="serviceBlocks"],
+html[lang="ar"] [data-i18n^="about.title"],
+html[lang="ar"] [data-i18n^="testimonials.title"],
+html[lang="ar"] [data-i18n^="contact.title"],
+html[lang="ar"] [data-i18n^="newsletter.title"] {
+    font-family: 'Almarai', sans-serif;
+    font-weight: 700;
+}
+
